@@ -41,6 +41,6 @@ To change styles, opening `components/...` and in every component, before the co
 
 ## Dependencies
 
-[React](https://reactjs.org/)
-[StyledComponent](https://styled-components.com/)
-[Axios](https://www.npmjs.com/package/axios)
+- [React](https://reactjs.org/)
+- [StyledComponent](https://styled-components.com/)
+- [Axios](https://www.npmjs.com/package/axios)
